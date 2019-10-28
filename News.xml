@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="plantilla.xsl" ?>
+<CLASE NOTICIAS=" 0 ">
+    <CONSOLAS>
+        <NOMBRE> NINTENDO SWITCH </NOMBRE>
+        <INFORMACION>
+            Nintendo Switch es la novena consola de videojuegos principal desarrollada por Nintendo. Se dio a conocer
+            en octubre de 2016 y fue lanzada mundialmente el 3 de marzo de 2017. Nintendo considera a Switch una
+            consola híbrida. Se puede utilizar como consola de sobremesa con la unidad principal insertada en una
+            estación de acoplamiento para conectarla con un televisor. Alternativamente, puede ser extraída de la base
+            y utilizada de forma similar a una tableta a través de su pantalla táctil LCD, o colocada sobre una
+            superficie gracias a su soporte plástico integrado siendo así visible por varios jugadores.
+        </INFORMACION>
+        <DESCRIPCION>
+            Nintendo describe que con la consola y la base hay tres métodos de jugabilidad que se pueden utilizar con
+            la Switch; el modo TV con la consola dentro de la base para jugar con un televisor grande, el modo sobremesa
+            con la consola apoyada sobre una superficie para jugar lejos de una pantalla, o en modo portátil como una
+            tablet tradicional. Los jugadores pueden intercambiar entre estos modos colocando o sacando la consola de la
+            base, sacando o escondiendo el apoyo o extrayendo o conectando los Joy-Con. La Switch no incluirá función de
+            dos pantallas como el que tenía la Wii U y su GamePad.
+        </DESCRIPCION>
+        <ESPECIFICACIONES>
+            Tamaño: 102mm x 239mm x 13,9 mm con los Joy-Con acoplados.
+            Peso: 297 g (398 g con los Joy-Con).
+            CPU/GPU: Procesador NVIDIA Tegra X1 personalizado
+            Memoria: 4 GB de RAM
+            Almacenamiento: 32GB.
+            Prestaciones de comunicación: LAN inalámbrico (también por cable en modo TV)/Bluetooth 4.1.
+            Salida de vídeo: 1920x1080, 60fps (EN modo TV a través de cable HDMI).
+            Salida de audio: Compatible con PCM lineal 5.1 (en modo TV a través de cable HDMI).
+            Altavoces: Estéreo.
+            Terminal USB: Type-C (para cargar o conectar a la base).
+            Conector de micrófono y auriculares: Salida estéreo.
+            Ranura de tarjetas de juego: Sólo compatible con tarjetas de Switch.
+            Ranura de tarjetas microSD: Compatible con microSD, microSDHC y microSDXC (con actualización) de hasta 2 TB.
+            Sensores: Acelerómetro, giroscopio y sensor de brillo.
+            Condiciones ambientales: Temperatura 5-35ºC/Humedad 20-80%.
+            Batería interna: Batería de ion de litio con capacidad 4310 mAH no extraíble
+            Duración de la batería: Entre 3 y 6 horas dependiendo del uso de Nintendo Switch.
+            Tiempo de carga: 3 horas aproximadamente en modo espera.
+        </ESPECIFICACIONES>
+    </CONSOLAS>
+</CLASE>
