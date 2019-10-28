@@ -39,5 +39,88 @@
             Duración de la batería: Entre 3 y 6 horas dependiendo del uso de Nintendo Switch.
             Tiempo de carga: 3 horas aproximadamente en modo espera.
         </ESPECIFICACIONES>
+        <NOMBRE> WII U </NOMBRE>
+        <INFORMACION>
+            Wii U es una consola perteneciente a la octava generación de videoconsolas, siendo la sexta de sobremesa
+            creada por Nintendo y directa sucesora de Wii. La consola fue lanzada el 18 de noviembre de 2012 en terreno
+            norteamericano siendo su fecha de apertura. Se presentó en la conferencia de Nintendo durante el Electronic
+            Entertainment Expo 2011 el 7 de junio de 2011. Competía principalmente con la PlayStation 4 de Sony y
+            la Xbox One de Microsoft.
+        </INFORMACION>
+        <DESCRIPCION>
+            Wii U es la primera consola de Nintendo en producir gráficos en alta definición hasta una resolución de
+            1080p. Incluye un nuevo mando que incorpora una pantalla táctil que recibe señal en calidad 480p de la
+            consola, lo que permite seguir jugando incluso cuando el televisor está apagado. A este nuevo mando se le
+            ha denominado: Wii U GamePad. El sistema es retrocompatible con los juegos de Wii, y soporta los
+            periféricos de Wii, como el Wiimote o la Wii Balance Board e incluyendo la tecnología NFC, además de
+            que es compatible con las figuras y cartas amiibo como accesorio propio (también compatibles en la Nintendo
+            3DS, que modifican la forma de jugar videojuegos). Sin embargo, no es retrocompatible con los periféricos
+            de Nintendo GameCube (a excepción del mando que se conecta mediante un adaptador) pero tiene capacidad de
+            descargar los videojuegos desde la consola virtual
+        </DESCRIPCION>
+        <ESPECIFICACIONES>
+            Procesadores:
+            CPU: microprocesador tri-núcleo IBM Arquitectura Power de 45 nm basado en la arquitectura POWER7 del
+            superordenador Watson a 1.24 Ghz.
+            GPU: una AMD Radeon HD diseñada en especial para la consola, mejorada, basado en la Radeon E6760 con
+            core R770 corriendo a 550 MHz.
+
+            Almacenamiento:
+            Memoria flash interna: la del pack básico es de 8 GB y la del pack premium de 32 GB, ampliable vía
+            discos duros externos USB
+            Bandeja de carga de discos compatible con discos propietarios de alta densidad de 12 cm (capacidad de 25GB
+            en un disco de una sola capa) y discos de Wii de 12 cm
+
+            Puertos y capacidades periféricas:
+            Ranura para tarjetas SD y SDHC
+            Puertos USB 2.0 (2 en el frontal y 2 en la parte trasera)
+            Puerto para la barra de sensores
+            Puerto para la señal de vídeo
+            Puerto del cable de corriente
+            Puerto HDMI 1.4
+        </ESPECIFICACIONES>
+        <NOMBRE> WII </NOMBRE>
+        <INFORMACION>
+            Wii es una videoconsola producida por Nintendo y estrenada el 19 de noviembre de 2006 en Norteamérica y el
+            8 de diciembre del mismo año en Europa. Perteneciente a la séptima generación de consolas,​ es la sucesora
+            directa de Nintendo GameCube y compitió con la Xbox 360 de Microsoft y la PlayStation 3 de Sony. Nintendo
+            afirmó que Wii está destinada a una audiencia más amplia a diferencia de las otras dos consolas. Desde su
+            debut, la consola superó a sus competidoras en cuanto a ventas, y, en diciembre de 2009, rompió el récord
+            como la consola más vendida en un solo mes en Estados Unidos.
+        </INFORMACION>
+        <DESCRIPCION>
+            La característica más distintiva de la consola es su mando inalámbrico, el Wii Remote, el cual puede usarse
+            como un dispositivo de mano con el que se puede apuntar, además de poder detectar movimientos en un plano
+            tridimensional. Otra de sus peculiaridades era el servicio WiiConnect, que permitía recibir mensajes y
+            actualizaciones a través de Internet en modo de espera. Adicionalmente, la consola puede sincronizarse
+            con la portátil Nintendo DS, lo cual permite que Wii aproveche la pantalla táctil de la Nintendo DS
+            como mando alternativo.
+        </DESCRIPCION>
+        <ESPECIFICACIONES>
+            Tamaño: 21,54 cm de largo, 15,7 cm de ancho y 4,4 cm de espesor.
+            CPU:
+            Unidad IBM PowerPC con nombre en clave "Broadway". Fabricada con tecnología SOI CMOS de 90nm.
+            Frecuencia: 729 MHz.
+            Ancho de banda: 1,9 GB por segundo.
+            32 KB L1 de caché.
+            3 L2 de caché (hasta 128 byte).
+            GPU:
+            Chip ATI sistema LSI con nombre en clave "Hollywood", realizado con tecnología SOI CMOS de 90 nm.
+            Resolución hasta 480p.
+            Modo panorámico opcional.
+            3 MB eDRAM y 24 MB RAM (funcionando a 486 MHz).
+            Audio:
+            Principal: Estéreo. Compatible con Dolby Pro Logic II.
+            Mando con altavoz integrado.
+            Memoria: 1T-SRAM. Cantidad por determinar.
+            Sistema de carga: Slot-in de Panasonic para discos de 8 y 12cm (discos de Gamecube y Wii respectivamente).
+            Almacenamiento:
+            512MB de memoria flash para guardar partidas y descargar contenidos.
+            Ranura para tarjetas de memoria SD.
+            2 Ranuras para tarjetas de memoria de Gamecube.
+            Comunicación:
+            Wifi incorporado (IEEE802.11 b/g).
+            Compatible con adaptador Wifi USB Ethernet.
+        </ESPECIFICACIONES>
     </CONSOLAS>
 </CLASE>
