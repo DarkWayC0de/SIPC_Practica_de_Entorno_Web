@@ -2,16 +2,55 @@
 <?xml-stylesheet type="text/xsl" href="plantilla.xsl" ?>
 <CLASE NOTICIAS=" 0 ">
     <ARTICULO>
-        <NOMBRE> RIOT SACA NOSECUANTOS VIDEOJUEGOS  </NOMBRE>
-        <CABECERA> VIVA EL VINOAKSHDOSDJKLAJFNLKAJFAJSDFALSKJDLKASJDF
-            A
-            ASDASDAS
-            AS
-            DA
-            AS
-            AS
-            S
+        <NOMBRE> DECIMO ANIVERSARIO DE RIOT GAMES  </NOMBRE>
+        <CABECERA> La compañia RIOT GAMES cumple 10 años dentro del mundo de los
+            videojuegos, anunciando asi la llegada de 3 nuevos juegos, ademas de diferentes regalos para
+            los jugadores
         </CABECERA>
-        <CUERPO>EMPIEZA EL CUERPO JAJJA</CUERPO>
+        <CUERPO>10 años de League of Legends y un futuro muy prometedor.
+            Eso es lo que ha celebrado Riot Games por todo lo alto en un
+            evento que ha sacudido a la industria del videojuego. En Europa
+            lo ha hecho junto a medio millar de invocadores, creadores de contenido,
+            periodistas, influencers, jugadores y otros miembros de la comunidad reunidos
+            en el Hard Rock Hotel de Marble Arch. Esta reunión, que coincide con la celebración
+            del Campeonato Mundial del juego en el continente, ha resultado en una auténtica RiotCon,
+            con anuncios que han revolucionado a los aficionados de todo el mundo y han convertido a la
+            compañía en tendencia. Así se ha vivido en Londres uno de los eventos más
+            ruidosos de la compañía californiana.La celebración europea ha tenido
+            un guiño especial para la comunidad española. Más de medio centenar viajamos
+            a Londres para arrancar la madrugada del miércoles con un programa especial
+            presentado por Ibai Llanos y Javier 'Sh4rin' Sanabria en el que repasaron
+            la evolución de la escena en España junto a algunos de sus protagonistas. Muchos
+            de ellos, presentes en la sala, donde pudimos volver a ver los vídeos del
+            aniversario producidos por Lag es Lag que han reventado de interacciones las
+            redes en las últimas semanas.El momento fuerte de la noche arrancó a las 3
+            de la madrugada con la retransmisión internacional. Las filtraciones, que
+            habían aguantado hasta el último momento, se mantenían como el principal tema de
+            conversación desde que la expedición española aterrizó en la capital inglesa. El streaming
+            arrancó puntual, y tras un recorrido visual por la década, llegaron los primeros anuncios:
+            la colección de iconos especiales para los jugadores recurrentes, el regreso del modo URF de manera
+            temporal y la creación de la fundación Social Impact Fund, una organización solidaria para destinar
+            las ganancias de ventas de algunas skins a causas benéficas.
+        </CUERPO>
+
+        <VIDEOJUEGO>PROJECT A: SHOOTER</VIDEOJUEGO>
+        <DESCRIPCION>A dicho respecto, acorde a lo mencionado por un tweet y por lo establecido en su página
+            web, nos hallamos ante un proyecto de corte táctico y competitivo situado en un futuro en la
+            Tierra cercano. Aunque aún no cuenta con un nombre oficial, sus responsables lo describen
+            como un "shooter preciso con un letal repertorio de personajes", en el cual, similar a otros
+            como Overwatch y Rainbow Six Siege, "las habilidades crean oportunidades únicas para que
+            tu gunplay sobresalga".
+
+            Salvo lo especificad, el equipo no ha compartido más información sobre este relativamente enigmático
+            Project A, cuyo lanzamiento está pautado para PC y del cual conoceremos más, según la información
+            publicada por la empresa, en 2020. Aun así, el vídeo anteriormente enlazado nos ofrece un vistazo
+            esclarecedor sobre lo que ofrecerá la inédita propuesta del estudio, por lo que recomendamos
+            encarecidamente su apreciación en aras de descubrir qué guarda Riot bajo la manga.
+        </DESCRIPCION>
+        <!--<VIDEOJUEGO>JUEGO 2:</VIDEOJUEGO>-->
+        <!--<DESCRIPCION>EL JUEGO CONSTA DE...</DESCRIPCION>-->
+        <!--<VIDEOJUEGO>JUEGO X:...</VIDEOJUEGO>-->
+        <!--<DESCRIPCION>EL JUEGO CONSTA DE...</DESCRIPCION>-->
+        <!--<NOMBRE> </NOMBRE>-->
     </ARTICULO>
 </CLASE>
