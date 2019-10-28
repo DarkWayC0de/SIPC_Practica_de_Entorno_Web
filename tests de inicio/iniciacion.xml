@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="plantilla.xsl" ?>
+<CLASE NOTICIAS=" 0 ">
+    <CONSOLAS>
+        <NOMBRE>  Play Station 1  </NOMBRE>
+        <INFORMACION> videoconsola de sobremesa de 32 bits lanzada por Sony Computer
+            Entertainment el 3 de diciembre de 1994 en Japón. Se considera la videoconsola
+            más exitosa de la quinta generación tanto en ventas como en popularidad.
+            Además de la original, en el año 2000 se lanzó la PSone (también llamado
+            modelo slim). Tuvo gran éxito al implantar el CD-ROM dentro de su hardware
+            a pesar de que otras compañías como SEGA (Sega CD), Panasonic (3DO), Phillips
+            (CD-i), SNK (Neo Geo CD), NEC (Super CD ROM) y Atari (Atari Jaguar) ya lo habían
+            empleado. Dichas compañías tuvieron poco éxito al utilizar el CD-ROM como soporte
+            para almacenar juegos.
+        </INFORMACION>
+        <DESCRIPCION>
+            Forma: Tiene la forma de un prisma rectangular de color gris y destaca por su diseño
+            compacto y ligero. Con el lanzamiento de la PSOne, la PlayStation redujo aún más su
+            tamaño y peso, los bordes extremos se curvaron más y el color fue un gris más claro
+            en comparación con el original.
+
+            Parte superior: Allí está el lector de discos, se ubican los botones de encendido y
+            apagado y el de reinicio (reset), por último está el botón para abrir la tapa del lector
+            de CD. En la versión PlayStation One, el botón de reinicio es corregido tal como se conoció
+            en el original PlayStation y este botón es reubicado en la parte de encendido.
+
+            Parte frontal: En la parte frontal de la consola, está un par de ranuras para conectar
+            los mandos y en la parte superior se ubican dos ranuras para insertar las Tarjetas de
+            Memoria (Memory Cards en inglés). En la quinta generación de videojuegos, aparecieron
+            muchos juegos largos; ya fue un requisito tener las tarjetas de memoria para guardar
+            los avances de los juegos cualquier personalización de un juego.
+
+            Parte trasera: En ese lugar está un puerto paralelo (que Sony eliminó en las últimas
+            versiones de la consola, presuntamente para combatir la piratería de sus juegos porque
+            existen accesorios que, una vez conectados al mismo, permiten eludir las protecciones
+            del sistema y ejecutar juegos no originales), un puerto serie, la entrada de alimentación
+            y la salida de A/V. Al quitarla, pensaron que consiguieron combatir la piratería, lo que
+            no funcionó y se pudo combatirla por otros sistemas (por el implante de chips o conexión
+            de cables internos, eso en caso de que el chip fue compatible con todos los juegos piratas).
+
+            Partes laterales: La consola tiene unas pequeñas rejillas de ventilación que permiten la
+            disipación del calor. Se recomendó dejar las partes laterales libres de algún objeto que obstruya
+            la ventilación para así evitar los sobrecalentamientos.
+
+            Parte inferior: En la parte inferior hay unas rejillas de ventilación; también se ubican los
+            tornillos que sujetan la carcasa y finalmente, están las etiquetas de información de la consola.
+        </DESCRIPCION>
+
+    </CONSOLAS>
+</CLASE>
