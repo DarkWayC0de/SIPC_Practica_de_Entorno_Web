@@ -3,7 +3,7 @@
 <CLASE NOTICIAS=" 0 ">
     <CONSOLAS>
         <NOMBRE>  Play Station 1  </NOMBRE>
-        <INFORMACION> videoconsola de sobremesa de 32 bits lanzada por Sony Computer
+        <INFORMACION>Videoconsola de sobremesa de 32 bits lanzada por Sony Computer
             Entertainment el 3 de diciembre de 1994 en Japón. Se considera la videoconsola
             más exitosa de la quinta generación tanto en ventas como en popularidad.
             Además de la original, en el año 2000 se lanzó la PSone (también llamado
@@ -66,6 +66,7 @@
             dos pantallas como el que tenía la Wii U y su GamePad.
         </DESCRIPCION>
         <ESPECIFICACIONES>
+            Especificaciones:
             Tamaño: 102mm x 239mm x 13,9 mm con los Joy-Con acoplados.
             Peso: 297 g (398 g con los Joy-Con).
             CPU/GPU: Procesador NVIDIA Tegra X1 personalizado

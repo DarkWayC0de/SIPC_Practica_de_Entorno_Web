@@ -21,32 +21,29 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
      <section>
       <TABLE>
        <xsl:for-each select="CLASE/CONSOLAS">
-        <xsl:sort order="ascending" select="NOMBRE"/>  <!--TODO arreglar-->
+           <xsl:sort order="ascending" select="NOMBRE"/>
          <TR>
-          <TD><xsl:value-of select="NOMBRE"/>,
-           <xsl:value-of select="INFORMACION"/>,
-           <xsl:value-of select="DESCRIPCION"/>,
-           <xsl:value-of select="ESPECIFICACIONES"/>
+          <TD>
+           <p>
+             <h3>
+              <xsl:value-of select="NOMBRE"/>
+             </h3>
+            <p style="text-align:justify">
+             <xsl:value-of select="INFORMACION"/>
+             <br></br>
+             <br></br>
+             <xsl:value-of select="DESCRIPCION"/>
+             <br></br>
+             <br></br>
+             <xsl:value-of select="ESPECIFICACIONES"/>
+            </p>
+           </p>
+           <br></br>
+           <br></br>
           </TD>
          </TR>
        </xsl:for-each>
       </TABLE>
-     <!-- <B> Notas del examen del 6 de Septiembre de 2005
-     </B>  
-     <BR/> 
-     <TABLE> 
-      <xsl:for-each  select="CLASE/ALUMNO"> 
-      <xsl:sort order="ascending" select="APELLIDOS"/> 
-       <TR> 
-        <TD><xsl:value-of select="APELLIDOS"/>,
-            <xsl:value-of select="NOMBRE"/>
-        </TD> 
-        <TD><B><xsl:value-of select="NOTA"/></B></TD> 
-        <BR/>
-       </TR> 
-      </xsl:for-each> 
-     </TABLE>
-     -->
      </section>
      <aside></aside>
      <footer></footer>
