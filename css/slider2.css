@@ -1,0 +1,34 @@
+#particles-js{
+    background: url(imagenes/fondo080.jpg);
+    /*background: #444;*/
+    background-position: center;
+    background-attachment: contain;
+    background-size: cover;
+}
+
+
+.ancho-letras{
+    top: 200px;
+    position: absolute;
+    width: 100%;
+    /*background: rgba(0, 0, 0, 0.8);*/
+    text-align: center;
+    z-index: 1;
+}
+
+.letras-slider{
+    width: 80%;
+    margin: auto;
+}
+
+.letras-slider h1{
+    color: white;
+    font-size: 70px;
+}
+
+.letras-slider p{
+    color: white;
+    font-size: 20px;
+    font-family: rale;
+    padding-top: 50px;
+}

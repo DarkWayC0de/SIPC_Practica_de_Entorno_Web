@@ -1,177 +1,294 @@
 <?xml version="1.0" ?>
 <?xml-stylesheet type="text/xsl" href="../plantilla.xsl" ?>
 <CLASE NOTICIAS=" 0 ">
-    <CONSOLAS>
-        <NOMBRE>  Play Station 1  </NOMBRE>
-        <INFORMACION>Videoconsola de sobremesa de 32 bits lanzada por Sony Computer
-            Entertainment el 3 de diciembre de 1994 en Japón. Se considera la videoconsola
-            más exitosa de la quinta generación tanto en ventas como en popularidad.
-            Además de la original, en el año 2000 se lanzó la PSone (también llamado
-            modelo slim). Tuvo gran éxito al implantar el CD-ROM dentro de su hardware
-            a pesar de que otras compañías como SEGA (Sega CD), Panasonic (3DO), Phillips
-            (CD-i), SNK (Neo Geo CD), NEC (Super CD ROM) y Atari (Atari Jaguar) ya lo habían
-            empleado. Dichas compañías tuvieron poco éxito al utilizar el CD-ROM como soporte
-            para almacenar juegos.
-        </INFORMACION>
-        <DESCRIPCION>
-            Forma: Tiene la forma de un prisma rectangular de color gris y destaca por su diseño
-            compacto y ligero. Con el lanzamiento de la PSOne, la PlayStation redujo aún más su
-            tamaño y peso, los bordes extremos se curvaron más y el color fue un gris más claro
-            en comparación con el original.
+    <MARCA>
+        <NOMBREMARCA>PlayStation</NOMBREMARCA>
+    	<CONSOLAS>       
+            <NOMBRE>PlayStation 1</NOMBRE>
+            <IMG>PS1.jpg</IMG>
+            <DESCRIPCION1>
+                PlayStation (PS1) es una videoconsola
+            </DESCRIPCION1>
+            <DESCRIPCION2>
+                 de sobremesa de 32 bits lanzada por Sony Computer Entertainment el 3 de diciembre de 1994 en Japón.
+            </DESCRIPCION2>
+            <ESPECIFICACIONES>
+                Dimensiones: 270 mm (anchura) x 60 milímetors (altura) x 188 milímetros (fondo).
+                Peso: 1,2 kg.
+                Entrada/Salida:
+                Una unidad lectora de discos CD-ROM.
+                Par de puertos para mandos de control.
+                Un puerto paralelo, ubicado en la parte trasera.
+                Un puerto serie, ubicado en la parte trasera de la consola.
+                Par de ranuras destinadas a las tarjetas de memoria.
+                Una salida analógica de uso múltiple, RF, Compuesto, S-Video y RGBs.
+                Una entrada de alimentación corriente alterna, de 220-240 V.
+                Consumo: 10 vatios.
+            </ESPECIFICACIONES>
+            <PRECIO>50</PRECIO>
+        </CONSOLAS>
 
-            Parte superior: Allí está el lector de discos, se ubican los botones de encendido y
-            apagado y el de reinicio (reset), por último está el botón para abrir la tapa del lector
-            de CD. En la versión PlayStation One, el botón de reinicio es corregido tal como se conoció
-            en el original PlayStation y este botón es reubicado en la parte de encendido.
+        <CONSOLAS>       
+            <NOMBRE>PlayStation 2</NOMBRE>
+            <IMG>PS2.jpg</IMG>
+            <DESCRIPCION1>
+                PlayStation 2 (PS2) es una videoconsola
+            </DESCRIPCION1>
+            <DESCRIPCION2>
+                 de sobremesa de 32 bits lanzada por Sony Computer Entertainment el 4 de marzo de 2000 en Japón.
+            </DESCRIPCION2>
+            <ESPECIFICACIONES>
+                Dimensiones: 182 mm (anchura) x 301 milímetors (altura) x 78 milímetros (fondo).
+                Peso: 2 kg.
+                Entrada/Salida:
+                A/V Multi Out x1: Señales de vídeo y audio analógicas.
+                Digital Out (Optical) x1.
+                Puerto de mandos x2.
+                Puerto para Tarjetas de memoria x2.
+                iLink S400 x1.
+                Puerto de infrarrojos x1.
+                PCMCIA x1 (Modelos SCPH-1000X a SCPH-1800X).
+                Expansión Bay x1.
+            </ESPECIFICACIONES>
+            <PRECIO>80</PRECIO>
+        </CONSOLAS>
 
-            Parte frontal: En la parte frontal de la consola, está un par de ranuras para conectar
-            los mandos y en la parte superior se ubican dos ranuras para insertar las Tarjetas de
-            Memoria (Memory Cards en inglés). En la quinta generación de videojuegos, aparecieron
-            muchos juegos largos; ya fue un requisito tener las tarjetas de memoria para guardar
-            los avances de los juegos cualquier personalización de un juego.
+        <CONSOLAS>       
+            <NOMBRE>PlayStation 3</NOMBRE>
+            <IMG>PS3.jpg</IMG>
+            <DESCRIPCION1>
+                PlayStation 3 (PS3) es una videoconsola
+            </DESCRIPCION1>
+            <DESCRIPCION2>
+                 de sobremesa de 64 bits lanzada por Sony Computer Entertainment el 11 de noviembre de 2006 en Japón.
+            </DESCRIPCION2>
+            <ESPECIFICACIONES>
+                Dimensiones: 230 mm (anchura) x 60 milímetors (altura) x 290 milímetros (fondo).
+                Peso: 2,4 kg.
+                Procesador:	Cell Broadband Engine 3.1Ghz y 256 MB de RAM.
+                Almacenamiento: Disco duro SATA velocidad de transferencia máxima 300 MB/s, tamaño 2,5" de 120 GB, también soporta disco duro del tipo SSD Unidad de estado sólido, aunque el firmware de la PS3 no soporta TRIM para estas unidades.
+                GPU: NVIDIA RSX 550 MHz.
+                Conectividad: Bluetooth 2.0, WiFi 802.11b/g (54 mbps), LAN (Gigabit Ethernet).
+            </ESPECIFICACIONES>
+            <PRECIO>100</PRECIO>
+        </CONSOLAS>
 
-            Parte trasera: En ese lugar está un puerto paralelo (que Sony eliminó en las últimas
-            versiones de la consola, presuntamente para combatir la piratería de sus juegos porque
-            existen accesorios que, una vez conectados al mismo, permiten eludir las protecciones
-            del sistema y ejecutar juegos no originales), un puerto serie, la entrada de alimentación
-            y la salida de A/V. Al quitarla, pensaron que consiguieron combatir la piratería, lo que
-            no funcionó y se pudo combatirla por otros sistemas (por el implante de chips o conexión
-            de cables internos, eso en caso de que el chip fue compatible con todos los juegos piratas).
+        <CONSOLAS>       
+            <NOMBRE>PlayStation 4</NOMBRE>
+            <IMG>PS4.jpg</IMG>
+            <DESCRIPCION1>
+                PlayStation 4 (PS4) es una videoconsola
+            </DESCRIPCION1>
+            <DESCRIPCION2>
+                 de sobremesa de 64 bits lanzada por Sony Computer Entertainment el 15 de noviembre de 2013 en EEUU.
+            </DESCRIPCION2>
+            <ESPECIFICACIONES>
+                Dimensiones: 250 mm (anchura) x 70 milímetors (altura) x 250 milímetros (fondo).
+                Peso: 2,6 kg.
+                Almacenamiento: HDD 1 TB Ultimate Player / 500 GB Normal y Glacier White.
+                GPU: AMD Radeon personalizada 1152 shaders @ 800 MHz (1,84 TFLOP, 4,2 TFLOP en la PS4 Pro)4.
+                Conectividad: WiFi 802.11 b/g/n.
+                Bluetooth: 2.1.
+                USB: 3.0.
+                Ethernet: 10/100/1000.
+            </ESPECIFICACIONES>
+            <PRECIO>300</PRECIO>
+        </CONSOLAS>
+    </MARCA>
 
-            Partes laterales: La consola tiene unas pequeñas rejillas de ventilación que permiten la
-            disipación del calor. Se recomendó dejar las partes laterales libres de algún objeto que obstruya
-            la ventilación para así evitar los sobrecalentamientos.
+    <MARCA>
+        <NOMBREMARCA>Nintendo</NOMBREMARCA>
+        <CONSOLAS>
+            <NOMBRE>Nintendo Switch</NOMBRE>
+            <IMG>switch.jpg</IMG>
+            <DESCRIPCION1>
+                Nintendo Switch es la novena consola
+            </DESCRIPCION1>
+            <DESCRIPCION2>
+                 de videojuegos principal desarrollada por Nintendo y fue lanzada mundialmente el 3 de marzo de 2017.
+            </DESCRIPCION2>
+            <ESPECIFICACIONES>
+                Tamaño: 102mm x 239mm x 13,9 mm con los Joy-Con acoplados.
+                Peso: 297 g.
+                CPU/GPU: Procesador NVIDIA Tegra X1.
+                Memoria: 4 GB de RAM
+                Almacenamiento: 32GB.
+                Prestaciones de comunicación: LAN inalámbrico (también por cable en modo TV)/Bluetooth 4.1.
+                Salida de vídeo: 1920x1080, 60fps (EN modo TV a través de cable HDMI).
+                Salida de audio: Compatible con PCM lineal 5.1 (en modo TV a través de cable HDMI).
+                Altavoces: Estéreo.
+                Terminal USB: Type-C (para cargar o conectar a la base).
+                Conector de micrófono y auriculares: Salida estéreo.
+                Ranura de tarjetas de juego: Sólo compatible con tarjetas de Switch.
+                Ranura de tarjetas microSD: Compatible con microSD, microSDHC y microSDXC (con actualización) de hasta 2 TB.
+                Sensores: Acelerómetro, giroscopio y sensor de brillo.
+                Condiciones ambientales: Temperatura 5-35ºC/Humedad 20-80%.
+                Batería interna: Batería de ion de litio con capacidad 4310 mAH no extraíble
+                Duración de la batería: Entre 3 y 6 horas dependiendo del uso de Nintendo Switch.
+                Tiempo de carga: 3 horas aproximadamente en modo espera.
+            </ESPECIFICACIONES>
+            <PRECIO>320</PRECIO>
+        </CONSOLAS>
 
-            Parte inferior: En la parte inferior hay unas rejillas de ventilación; también se ubican los
-            tornillos que sujetan la carcasa y finalmente, están las etiquetas de información de la consola.
-        </DESCRIPCION>
-        <ESPECIFICACIONES></ESPECIFICACIONES>
-    </CONSOLAS>
-    <CONSOLAS>
-        <NOMBRE> NINTENDO SWITCH </NOMBRE>
-        <INFORMACION>
-            Nintendo Switch es la novena consola de videojuegos principal desarrollada por Nintendo. Se dio a conocer
-            en octubre de 2016 y fue lanzada mundialmente el 3 de marzo de 2017. Nintendo considera a Switch una
-            consola híbrida. Se puede utilizar como consola de sobremesa con la unidad principal insertada en una
-            estación de acoplamiento para conectarla con un televisor. Alternativamente, puede ser extraída de la base
-            y utilizada de forma similar a una tableta a través de su pantalla táctil LCD, o colocada sobre una
-            superficie gracias a su soporte plástico integrado siendo así visible por varios jugadores.
-        </INFORMACION>
-        <DESCRIPCION>
-            Nintendo describe que con la consola y la base hay tres métodos de jugabilidad que se pueden utilizar con
-            la Switch; el modo TV con la consola dentro de la base para jugar con un televisor grande, el modo sobremesa
-            con la consola apoyada sobre una superficie para jugar lejos de una pantalla, o en modo portátil como una
-            tablet tradicional. Los jugadores pueden intercambiar entre estos modos colocando o sacando la consola de la
-            base, sacando o escondiendo el apoyo o extrayendo o conectando los Joy-Con. La Switch no incluirá función de
-            dos pantallas como el que tenía la Wii U y su GamePad.
-        </DESCRIPCION>
-        <ESPECIFICACIONES>
-            Especificaciones:
-            Tamaño: 102mm x 239mm x 13,9 mm con los Joy-Con acoplados.
-            Peso: 297 g (398 g con los Joy-Con).
-            CPU/GPU: Procesador NVIDIA Tegra X1 personalizado
-            Memoria: 4 GB de RAM
-            Almacenamiento: 32GB.
-            Prestaciones de comunicación: LAN inalámbrico (también por cable en modo TV)/Bluetooth 4.1.
-            Salida de vídeo: 1920x1080, 60fps (EN modo TV a través de cable HDMI).
-            Salida de audio: Compatible con PCM lineal 5.1 (en modo TV a través de cable HDMI).
-            Altavoces: Estéreo.
-            Terminal USB: Type-C (para cargar o conectar a la base).
-            Conector de micrófono y auriculares: Salida estéreo.
-            Ranura de tarjetas de juego: Sólo compatible con tarjetas de Switch.
-            Ranura de tarjetas microSD: Compatible con microSD, microSDHC y microSDXC (con actualización) de hasta 2 TB.
-            Sensores: Acelerómetro, giroscopio y sensor de brillo.
-            Condiciones ambientales: Temperatura 5-35ºC/Humedad 20-80%.
-            Batería interna: Batería de ion de litio con capacidad 4310 mAH no extraíble
-            Duración de la batería: Entre 3 y 6 horas dependiendo del uso de Nintendo Switch.
-            Tiempo de carga: 3 horas aproximadamente en modo espera.
-        </ESPECIFICACIONES>
-    </CONSOLAS>
-    <CONSOLAS>
-        <NOMBRE> WII U </NOMBRE>
-        <INFORMACION>
-            Wii U es una consola perteneciente a la octava generación de videoconsolas, siendo la sexta de sobremesa
-            creada por Nintendo y directa sucesora de Wii. La consola fue lanzada el 18 de noviembre de 2012 en terreno
-            norteamericano siendo su fecha de apertura. Se presentó en la conferencia de Nintendo durante el Electronic
-            Entertainment Expo 2011 el 7 de junio de 2011. Competía principalmente con la PlayStation 4 de Sony y
-            la Xbox One de Microsoft.
-        </INFORMACION>
-        <DESCRIPCION>
-            Wii U es la primera consola de Nintendo en producir gráficos en alta definición hasta una resolución de
-            1080p. Incluye un nuevo mando que incorpora una pantalla táctil que recibe señal en calidad 480p de la
-            consola, lo que permite seguir jugando incluso cuando el televisor está apagado. A este nuevo mando se le
-            ha denominado: Wii U GamePad. El sistema es retrocompatible con los juegos de Wii, y soporta los
-            periféricos de Wii, como el Wiimote o la Wii Balance Board e incluyendo la tecnología NFC, además de
-            que es compatible con las figuras y cartas amiibo como accesorio propio (también compatibles en la Nintendo
-            3DS, que modifican la forma de jugar videojuegos). Sin embargo, no es retrocompatible con los periféricos
-            de Nintendo GameCube (a excepción del mando que se conecta mediante un adaptador) pero tiene capacidad de
-            descargar los videojuegos desde la consola virtual
-        </DESCRIPCION>
-        <ESPECIFICACIONES>
-            Procesadores:
-            CPU: microprocesador tri-núcleo IBM Arquitectura Power de 45 nm basado en la arquitectura POWER7 del
-            superordenador Watson a 1.24 Ghz.
-            GPU: una AMD Radeon HD diseñada en especial para la consola, mejorada, basado en la Radeon E6760 con
-            core R770 corriendo a 550 MHz.
+        <CONSOLAS>
+            <NOMBRE>WII U</NOMBRE>
+            <IMG>wiiu.jpg</IMG>
+            <DESCRIPCION1>
+                Wii U​ es una consola perteneciente
+            </DESCRIPCION1>
+            <DESCRIPCION2>
+                 a la octava generación de videoconsolas,​ siendo la sexta de sobremesa creada por Nintendo. La consola fue lanzada el 18 de noviembre de 2012 en EEUU.
+            </DESCRIPCION2>
+            <ESPECIFICACIONES>
+                CPU: microprocesador tri-núcleo IBM Arquitectura Power de 45 nm.
+                GPU: una AMD Radeon HD.
+                Almacenamiento:
+                Memoria flash interna: 32 GB, ampliable vía discos duros externos USB.
+                Bandeja de carga de discos compatible con discos propietarios de alta densidad de 12 cm.
+                Puertos y capacidades periféricas:
+                Ranura para tarjetas SD y SDHC
+                Puertos USB 2.0 (2 en el frontal y 2 en la parte trasera)
+                Puerto para la barra de sensores
+                Puerto para la señal de vídeo
+                Puerto del cable de corriente
+                Puerto HDMI 1.4
+            </ESPECIFICACIONES>
+            <PRECIO>140</PRECIO>
+        </CONSOLAS>
 
-            Almacenamiento:
-            Memoria flash interna: la del pack básico es de 8 GB y la del pack premium de 32 GB, ampliable vía
-            discos duros externos USB
-            Bandeja de carga de discos compatible con discos propietarios de alta densidad de 12 cm (capacidad de 25GB
-            en un disco de una sola capa) y discos de Wii de 12 cm
+        <CONSOLAS>
+            <NOMBRE>WII</NOMBRE>
+            <IMG>wii.jpg</IMG>
+            <DESCRIPCION1>
+                Wii es una videoconsola producida
+            </DESCRIPCION1>
+            <DESCRIPCION2>
+                 por Nintendo y estrenada el 19 de noviembre de 2006 en Norteamérica. Perteneciente a la séptima generación de consola.
+            </DESCRIPCION2>
+            <ESPECIFICACIONES>
+                Tamaño: 21,54 cm de largo, 15,7 cm de ancho y 4,4 cm de espesor.
+                CPU: Unidad IBM PowerPC
+                GPU: Chip ATI sistema LSI
+                Memoria: 1T-SRAM.
+                Sistema de carga: Slot-in de Panasonic para discos de 8 y 12cm (discos de Gamecube y Wii respectivamente).
+                Almacenamiento:
+                512MB de memoria flash para guardar partidas y descargar contenidos.
+                Ranura para tarjetas de memoria SD.
+                2 Ranuras para tarjetas de memoria de Gamecube.
+                Comunicación:
+                Wifi incorporado (IEEE802.11 b/g).
+                Compatible con adaptador Wifi USB Ethernet.
+            </ESPECIFICACIONES>
+            <PRECIO>75</PRECIO>
+        </CONSOLAS>
 
-            Puertos y capacidades periféricas:
-            Ranura para tarjetas SD y SDHC
-            Puertos USB 2.0 (2 en el frontal y 2 en la parte trasera)
-            Puerto para la barra de sensores
-            Puerto para la señal de vídeo
-            Puerto del cable de corriente
-            Puerto HDMI 1.4
-        </ESPECIFICACIONES>
-    </CONSOLAS>
-    <CONSOLAS>
-        <NOMBRE> WII </NOMBRE>
-        <INFORMACION>
-            Wii es una videoconsola producida por Nintendo y estrenada el 19 de noviembre de 2006 en Norteamérica y el
-            8 de diciembre del mismo año en Europa. Perteneciente a la séptima generación de consolas,​ es la sucesora
-            directa de Nintendo GameCube y compitió con la Xbox 360 de Microsoft y la PlayStation 3 de Sony. Nintendo
-            afirmó que Wii está destinada a una audiencia más amplia a diferencia de las otras dos consolas. Desde su
-            debut, la consola superó a sus competidoras en cuanto a ventas, y, en diciembre de 2009, rompió el récord
-            como la consola más vendida en un solo mes en Estados Unidos.
-        </INFORMACION>
-        <DESCRIPCION>
-            La característica más distintiva de la consola es su mando inalámbrico, el Wii Remote, el cual puede usarse
-            como un dispositivo de mano con el que se puede apuntar, además de poder detectar movimientos en un plano
-            tridimensional. Otra de sus peculiaridades era el servicio WiiConnect, que permitía recibir mensajes y
-            actualizaciones a través de Internet en modo de espera. Adicionalmente, la consola puede sincronizarse
-            con la portátil Nintendo DS, lo cual permite que Wii aproveche la pantalla táctil de la Nintendo DS
-            como mando alternativo.
-        </DESCRIPCION>
-        <ESPECIFICACIONES>
-            Tamaño: 21,54 cm de largo, 15,7 cm de ancho y 4,4 cm de espesor.
-            CPU:
-            Unidad IBM PowerPC con nombre en clave "Broadway". Fabricada con tecnología SOI CMOS de 90nm.
-            Frecuencia: 729 MHz.
-            Ancho de banda: 1,9 GB por segundo.
-            32 KB L1 de caché.
-            3 L2 de caché (hasta 128 byte).
-            GPU:
-            Chip ATI sistema LSI con nombre en clave "Hollywood", realizado con tecnología SOI CMOS de 90 nm.
-            Resolución hasta 480p.
-            Modo panorámico opcional.
-            3 MB eDRAM y 24 MB RAM (funcionando a 486 MHz).
-            Audio:
-            Principal: Estéreo. Compatible con Dolby Pro Logic II.
-            Mando con altavoz integrado.
-            Memoria: 1T-SRAM. Cantidad por determinar.
-            Sistema de carga: Slot-in de Panasonic para discos de 8 y 12cm (discos de Gamecube y Wii respectivamente).
-            Almacenamiento:
-            512MB de memoria flash para guardar partidas y descargar contenidos.
-            Ranura para tarjetas de memoria SD.
-            2 Ranuras para tarjetas de memoria de Gamecube.
-            Comunicación:
-            Wifi incorporado (IEEE802.11 b/g).
-            Compatible con adaptador Wifi USB Ethernet.
-        </ESPECIFICACIONES>
-    </CONSOLAS>
+        <CONSOLAS>
+            <NOMBRE>Nintendo 3DS</NOMBRE>
+            <IMG>3ds.jpg</IMG>
+            <DESCRIPCION1>
+                Nintendo 3DS es una videoconsola
+            </DESCRIPCION1>
+            <DESCRIPCION2>
+                 portátil de Nintendo cuya atracción principal es poder mostrar gráficos en 3D sin necesidad de gafas especiales, gracias a la autoestereoscopia. Fue lanzada el 26 de febrero de 2011 en Japón.
+            </DESCRIPCION2>
+            <ESPECIFICACIONES>
+                Procesador:	ARM11 Dual-Core a 266MHz.
+                Almacenamiento:	Nintendo recomienda el uso de SDs de hasta 32GB pero el 3DS soporta SDs de hasta 256GB sin problemas.
+                GPU: DMP Pica200 a 133MHz5​6​.
+                Conectividad: 2.4 GHz Wi-Fi IR.​
+                Soporte: Tarjetas DS 512MB y Tarjetas 3DS 8GB.
+            </ESPECIFICACIONES>
+            <PRECIO>100</PRECIO>
+        </CONSOLAS>
+    </MARCA>
+
+    <MARCA>
+        <NOMBREMARCA>Xbox</NOMBREMARCA>
+        <CONSOLAS>
+            <NOMBRE>Xbox</NOMBRE>
+            <IMG>xbox1.jpg</IMG>
+            <DESCRIPCION1>
+                Xbox es una videoconsola de
+            </DESCRIPCION1>
+            <DESCRIPCION2>
+                 sobremesa de sexta generación producida por Microsoft. Fue lanzada el 15 de noviembre de 2001 en EEUU.
+            </DESCRIPCION2>
+            <ESPECIFICACIONES>
+                Procesador:	Intel Coppermine Core 32-bit @ 733 MHz
+                Almacenamiento:	Disco duro, Tarjetas de memoria.
+                GPU:	Nvidia MPCX 256-bit @ 233 MHz
+                Soporte: CD-R 700MB DVD 4,7GB
+            </ESPECIFICACIONES>
+            <PRECIO>50</PRECIO>
+        </CONSOLAS>
+
+        <CONSOLAS>
+            <NOMBRE>XBOX360</NOMBRE>
+            <IMG>xbx360.jpg</IMG>
+            <DESCRIPCION1>
+                Xbox 360 es la videoconsola
+            </DESCRIPCION1>
+            <DESCRIPCION2>
+                 de sobremesa de la marca Xbox producida por Microsoft. Fue lanzada el 22 de noviembre de 2005 en EEUU.
+            </DESCRIPCION2>
+            <ESPECIFICACIONES>
+                Procesador:	3.2 GHz (PowerPC) Tri-Core IBM Xenon 512 MB de RAM.
+                Almacenamiento:	Disco duro extraíble de 250 GB, tarjeta de memoria de 64.
+                GPU: ATI/AMD Xenos 500 MHz
+                Conectividad: Modelo S wireless, 5 puertos USB 2.0, Wi-Fi 802.11a/b/g/n, receptor IR, 100 Mbit Ethernet, Puerto auxiliar.
+                Vídeo: SD: 480i, 480p HDTV: 720p, 1080i, 1080p
+                Soporte: HD DVD, DVD-DL, Disco compacto.(CD)
+            </ESPECIFICACIONES>
+            <PRECIO>150</PRECIO>
+        </CONSOLAS>
+
+        <CONSOLAS>
+            <NOMBRE>Xbox One</NOMBRE>
+            <IMG>xboxone.jpg</IMG>
+            <DESCRIPCION1>
+                Xbox One es la tercera videoconsola
+            </DESCRIPCION1>
+            <DESCRIPCION2>
+                 de sobremesa de la marca Xbox, producida por Microsoft. Forma parte de las videoconsolas de octava generación, fue presentada el 21 de mayo de 2013 en EEUU y Europa.
+            </DESCRIPCION2>
+            <ESPECIFICACIONES>
+                Procesador:	AMD Jaguar x86-64 a 1,75 GHz (8 núcleos)1.
+                Almacenamiento:	Disco duro SATA 2,5" de 1TB.
+                GPU: AMD Radeon GCN DirectX 12 personalizada por Microsoft con 768 shaders @ 853 MHz (1,31 TFLOP/s).
+                Conectividad:
+                    USB 3.0
+                    Protocolo S/PDIF
+                    High-Definition Multimedia Interface
+                    Gigabit Ethernet Ver y modificar los datos en Wikidata
+            </ESPECIFICACIONES>
+            <PRECIO>200</PRECIO>
+        </CONSOLAS>
+
+        <CONSOLAS>
+            <NOMBRE>Xbox One X</NOMBRE>
+            <IMG>xboxonex.jpg</IMG>
+            <DESCRIPCION1>
+                Xbox One X producida por
+            </DESCRIPCION1>
+            <DESCRIPCION2>
+                 Microsoft es una actualización de hardware de Xbox One con el nombre de "Xbox One X". La nueva consola lanzada el 7 de noviembre de 2017.
+            </DESCRIPCION2>
+            <ESPECIFICACIONES>
+                CPU: 8 núcleos con frecuencia de 2,3 GHz.
+                GPU: 1.172 MHz de frecuencia de reloj, arquitectura Polaris y 6 TFLOPS de potencia.
+                Memoria: 12 GB de memoria GDDR5 a 6,8 GHz con un ancho de banda de 326 GB/s.
+                Almacenamiento: 1 TB de disco duro.
+                Puertos:
+                    HDMI 1.4b de entrada
+                    HDMI 2.0b de salida
+                    1 x USB 3.0 frontal
+                    2 x USB 3.0 traseros
+                    Receptor IR
+                    Salida audio digital SPDIF
+                    Puerto Gigabit Ethernet
+                Conectividad inalámbrica: WiFi 802.11ac Dual Band (5 GHz / 2.4 GHz).
+            </ESPECIFICACIONES>
+            <PRECIO>350</PRECIO>
+        </CONSOLAS>
+    </MARCA>
 </CLASE>

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" xml:lang="es">
+  <meta name="title" content="ConsolasODE">
+  <meta name="descrption" content="Página online de venta de consolas">
+  <meta name="keywords"
+    content="videojuego, consola, sony, microsoft, nintendo, playstation, xbox, switch, comprar, oferta, servicio">
+  <title>ConsolasODE</title>
+  <link rel="stylesheet" href="css/cabecera.css">
+  <link rel="stylesheet" href="css/slider.css">
+  <link rel="stylesheet" href="css/animate.css">
+  <link rel="stylesheet" href="css/resto.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <script src="https://kit.fontawesome.com/80e2a2c9ef.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="css/sss.css" type="text/css" media="all">
+  <link rel="shortcut icon" href="imagenes/icono.jpg">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.css" />
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body style="background-image: url('imagenes/fondoestrella.jpg');
+    background-repeat: no-repeat; background-size: 100% 1500px;">
+  <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
+    <figure>
+     <div>
+     <div class="logoini" onclick="window.location='index.html';" >ConsolasODE</div>
+      <div class="logoini" onclick="window.location='index.html';" >INICIO</div>
+      </div>
+    </figure>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#enlaces" aria-controls="enlaces"
+      aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class=" navbar-collapse collapse justify-content-end" id="enlaces">
+      <ul class="navbar-nav" id="pepe">
+        <li class="nav-item active">
+          <a class="nav-link text-light" href="index.html">Inicio</a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link text-light" href="tienda.html">Tienda</a>
+        </li>
+        <li class="nav-item ">
+          <a class="nav-link text-light" href="index.html#Contactos">Contacto</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-light" href="login.html">Iniciar sesión</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-light" href="index.html#Nosotros">Quienes somos</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <div style="margin-top:10%"/> 
+  <div class="container mt-5" >
+
+    <h1 class="brand"><span>Formulario de compra</span></h1>
+    <div class="wrapper">
+        <div class="company-info">
+            <h3>ConsolasODE</h3>
+            <ul>
+                <li><i class="fa fa-road"></i> 21, San Francisco de Paula</li>
+                <li><i class="fa fa-phone"></i> (+34)629341212</li>
+                <li><i class="fa fa-envelope"></i>  consultas@consolasode.com</li>
+
+                <div>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1753.4536447296641!2d-16.321649599933423!3d28.482338559902217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xc41cdba537612d1%3A0xd2b94248483a7c7f!2sEscuela%20Superior%20de%20Ingenier%C3%ADa%20y%20Tecnolog%C3%ADa%20de%20la%20Universidad%20de%20la%20Laguna!5e0!3m2!1ses!2ses!4v1578854591209!5m2!1ses!2ses" width="300" height="225" class="mt-5" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                </div>
+            </ul>
+        </div>
+        <div class="contact">
+            <h3>Contacta con nosotros</h3>
+            <div class="alert">Mensaje enviado!!!</div>
+              <form id="contactForm">
+                <p>
+                    <label>Nombre</label>
+                    <label>
+                        <input type="text" name="nombre" id="nombre" required>
+                    </label>
+                </p>
+                <p>
+                    <label>Tarjeta de Credito</label>
+                    <label>
+                        <input type="text" name="tarjetaC" id="tarjetaC">
+                    </label>
+                </p>
+                <p>
+                    <label>Correo Electronico</label>
+                    <label>
+                        <input type="correo" name="correo" id="correo" required>
+                    </label>
+                </p>
+                <p>
+                    <label>Telefono</label>
+                    <label>
+                        <input type="text" name="telefono" id="telefono">
+                    </label>
+                </p>
+                <p class="full">
+                    <label>Mensaje</label>
+                    <label>
+                        <textarea name="mensaje" rows="5" id="mensaje"></textarea>
+                    </label>
+                </p>
+                <p class="full">
+                    <button type="submit">Enviar</button>
+                </p>
+            </form>
+        </div>
+    </div>
+</div>
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+    integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+    crossorigin="anonymous"></script>
+<script src="https://www.gstatic.com/firebasejs/4.3.0/firebase.js"></script>
+<script src="https://www.gstatic.com/firebasejs/6.4.0/firebase-database.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
